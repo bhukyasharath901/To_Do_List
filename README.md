@@ -11,9 +11,11 @@ ToDo list is a simple web application to save Your daily tasks in order not to m
 •Delete single task
 •Delete completed tasks
 •Delete all tasks
+•Logout
 
 𝐓𝐄𝐂𝐇𝐍𝐎𝐋𝐎𝐆𝐈𝐄𝐒 𝐔𝐒𝐄𝐃:
 •MongoDB
 •React.JS
 •Express.JS
 •Node.JS
+•JWT(JSON web token) Authentication
